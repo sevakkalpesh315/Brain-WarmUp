@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brain WarmUp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="dialog_close_title">Stop the Brain-WarmUp</string>
+    <string name="dialog_close_msg">Are you done with Brain-WarmUp?</string>
+    <string name="Yes">Yes,I am done</string>
+    <string name="No">No,wait</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_info">* Brain WarmUp! is an arithmetic game.\n\n* Choose Easy, Medium or Hard level to begin.\n\n* Answer the question by typing on the number pad displayed and pressing enter. \n\n* Press the C button to clear an existing answer.\n\n* Each question may be an addition, subtraction, multiplication or division.\n\n* Your ten best scores will automatically be saved into the High Scores.</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="mail_feedback_email">sevakkalpesh@gmail.com</string>
+    <string name="mail_feedback_subject">Feedback on your app</string>
+    <string name="mail_feedback_message">Hi, 
+\n\nYour Feedback sample app rocks! I would like to give you some feedback:</string>
+
+    <color name="white">#ffffffff</color>
+
+</resources>
